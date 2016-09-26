@@ -2,6 +2,9 @@
 
 ## University of Michigan, Department of Electrical Engineering and Computer Science
 
+**Big credits to @mshuva for original file upload as well as guiding me through the process and taking time out of his day to teach me.
+THANK YOU!!!**
+
 This is a project I did for Professor Laura Balzano. The project was inspired by a [paper](http://www.cc.gatech.edu/~phlosoft/files/schindler08_3dpvt.pdf) published the Georgia Institue of Technology that perform real-time photometric stereo using a computer screen as its lighting source.
 
 ### Software and Hardware Requirements
